@@ -33,7 +33,7 @@ The project follows a clean separation of concerns:
 ## ⚙️ Setup
 ### Install dependencies:
 ```bash
-pip install google-generativeai
+pip install -r requirements.txt
 ```
 ### API Configuration:
 Add your Gemini API Key to judge_engine.py.
