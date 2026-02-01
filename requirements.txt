@@ -1,0 +1,2 @@
+# Core library for Google Gemini API integration
+google-generativeai
